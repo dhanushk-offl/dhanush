@@ -242,7 +242,7 @@ export let user: User = {
         },
         {
             role: "Software Engineering Intern @Google",
-            href: "https://google.com",
+            href: "https://profile.google.com/c4iyilwc",
             timespan: " Aug. 2023 - Jan. 2024",
             external_links: [
                 {
