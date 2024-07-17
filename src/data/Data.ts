@@ -70,10 +70,10 @@ let baseIconsURL = 'https://cdn.simpleicons.org';
 export let user: User = {
     name: "Dhanush K",
     nameWithoutSuffix: "Dhanush",
-    role: "Technologist with a passion for building.",
+    role: "AI Engineer, Researcher, Technologist, Writer, Technologist &Community Enthusiast",
     nickname: "Dhanu",
     ed: "Technologist, AI Engineer, Writer, Podcaster, Student",
-    about: "A 20 year old developer from India. I'm very passionate about AI, software engineering, open source and all sorts of music. <br /> <br /> My interests include Machine learning, Reverse engineering, Web scraping, Bash scripting, UI Designing, Writing and Automation.",
+    about: "Hey there! 👋 Let me take you on a ride through my tech-filled world! Currently rocking as a Developer Technology Intern at Nvidia, I'm all about pushing boundaries and creating innovative solutions. 🚀 As an AI and Computer Ethics Research Fellow at Cambridge University, I dive deep into the ethical dimensions of technology, shaping a more mindful future. With a stint at Google under my belt, I now mentor bright minds at Naan Mudhalvan, courtesy of the Government of Tamil Nadu, India. 🌟 Serving as the Technical Regional Leader for UN Youth Volunteers in India, I'm all about driving impactful change in the tech sphere. But wait, there's more! 🌎 As the Podcast Host of Idunammatechu, I amplify voices and ideas, blending my expertise with passion. With a Bachelor's in IT from Anna University - IN and a Master's in Data Science from MITx - US, I'm ready to conquer new frontiers. Beyond the screen, I'm a typical foodie, a Motorhead, and a Traveling Explorer, always up for new adventures. Let's chat over a single tea and delve into a world of tech wonders and savory discussions! 🍵💻",
     orgs: [
         {
             name: "Nvidia Corporation",
