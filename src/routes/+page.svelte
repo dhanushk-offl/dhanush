@@ -95,10 +95,11 @@
 			<CircularButton size="md" href="/contact">👋 &nbsp;Connect with me</CircularButton>
 		</div>
 	{/if}
+	<br>
 	<div>
 		<h1 class="py-2 text-center text-black dark:text-white text-xl font-bold">
 			Listen to My <span class="text-latte-blue dark:text-ctp-mauve font-bold">Tamil Tech Podcast!</span>
-		</h1><center>
+		</h1><center><br>
 			<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/7wNAoRcAzNzEf51JhNH3vo?utm_source=generator&theme=0" width="75%" height="152" frameBorder="0" title="Podcast" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 		<br></center>
 	</div>
