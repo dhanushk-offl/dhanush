@@ -11,6 +11,7 @@
 </script>
 
 <html lang="en">
+<meta name="google-site-verification" content="07sRAIPBnZNANGrwBoftFvWh0pyrPZbMyjFlzFx3suI" />
 	<head>
 		<title>Dhanush Kandhan</title>
 		<link
