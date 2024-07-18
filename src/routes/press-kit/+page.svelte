@@ -2,9 +2,9 @@
     import { onMount } from 'svelte';
 
     // Sample data for images
-    const images = [
-		{ id: 1, src: '../../../assets/dhanush.jpg', alt: 'Dhanush Kandhan', downloadLink: '../../../assets/dhanush.jpg' },
-		{ id: 2, src: '../../../assets/Dhanu.jpg', alt: 'Dhanush Head shot Pic', downloadLink: '../../../assets/Dhanu.jpg' },
+const images = [
+		{ id: 1, src: '../../assets/images/dhanush.jpg', alt: 'Dhanush Kandhan', downloadLink: '../../assets/images/dhanush.jpg' },
+		{ id: 2, src: '../../assets/images/Dhanu.jpg', alt: 'Dhanush Head shot Pic', downloadLink: '../../assets/images/Dhanu.jpg' },
 		// Add more images as needed
 	];
 
