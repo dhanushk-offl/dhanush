@@ -3,10 +3,10 @@
 
     // Sample data for images
 const images = [
-		{ id: 1, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721315692/dhanush_cnj3gi.jpg', alt: 'Dhanush Kandhan', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721315692/dhanush_cnj3gi.jpg' },
-		{ id: 2, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316441/DhanushFull_ztjwfl.jpg', alt: 'Dhanush Head shot Pic', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316441/DhanushFull_ztjwfl.jpg' },
-		{ id: 3, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316442/DFull_Head_owctd8.jpg', alt: 'Dhanush Full Color', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316442/DFull_Head_owctd8.jpg' },
-		{ id: 4, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316460/DFull_Headbw_r1nmpz.jpg', alt: 'Dhanush Head B/w', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316460/DFull_Headbw_r1nmpz.jpg' },
+		{ id: 1, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316441/DhanushFull_ztjwfl.jpg', alt: 'Dhanush Head shot Pic', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316441/DhanushFull_ztjwfl.jpg' },
+		{ id: 2, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316442/DFull_Head_owctd8.jpg', alt: 'Dhanush Full Color', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316442/DFull_Head_owctd8.jpg' },
+		{ id: 3, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316460/DFull_Headbw_r1nmpz.jpg', alt: 'Dhanush Head B/w', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721316460/DFull_Headbw_r1nmpz.jpg' },
+		{ id: 4, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721315692/dhanush_cnj3gi.jpg', alt: 'Dhanush Kandhan', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721315692/dhanush_cnj3gi.jpg' }
 		// Add more images as needed
 	];
 
