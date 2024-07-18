@@ -66,7 +66,7 @@
 		<footer class="text-center p-4 bg-white dark:bg-gray-800">
 		<p class="inline font-mono text-xs text-gray-400 dark:text-gray-600">Made with 💚 by Dhanush Kandhan</p>
 		<div class="mt-2">
-			<a href="/press-kit" class="text-latte-blue dark:text-ctp-mauve font-bold text-sm hover:text-green-700 mx-2">About</a>
+			<a href="/press-kit" class="text-latte-blue dark:text-ctp-mauve font-bold text-sm hover:text-green-700 mx-2">Press Kit</a>
 			<a href="https://itzmedhanu.medium.com/" target="_blank" class="text-latte-blue dark:text-ctp-mauve font-bold text-sm hover:text-green-700 mx-2">Blogs</a>
 			<a href="https://cal.com/itzmedhanu" target="_blank" class="text-latte-blue dark:text-ctp-mauve font-bold text-sm hover:text-green-700 mx-2">Book a Meet</a>
 			<a href="/about" class="text-latte-blue dark:text-ctp-mauve font-bold text-sm hover:text-green-700 mx-2">About</a>
