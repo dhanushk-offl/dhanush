@@ -3,8 +3,8 @@
 
     // Sample data for images
     const images = [
-        { id: 1, src: '../../src/assets/dhanush.jpg', alt: 'Dhanush Kandhan', downloadLink: '../../src/assets/dhanush.jpg' },
-        { id: 2, src: '../../src/assets/Dhanu.jpg', alt: 'Dhanush Head shot Pic', downloadLink: '../../src/assets/Dhanu.jpg' },
+        { id: 1, src: '/src/assets/dhanush.jpg', alt: 'Dhanush Kandhan', downloadLink: '../../src/assets/dhanush.jpg' },
+        { id: 2, src: '/src/assets/Dhanu.jpg', alt: 'Dhanush Head shot Pic', downloadLink: '../../src/assets/Dhanu.jpg' },
         // Add more images as needed
     ];
 
