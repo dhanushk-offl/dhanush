@@ -3,8 +3,8 @@
 
     // Sample data for images
 const images = [
-		{ id: 1, src: '../../assets/images/dhanush.jpg', alt: 'Dhanush Kandhan', downloadLink: '../../assets/images/dhanush.jpg' },
-		{ id: 2, src: '../../assets/images/Dhanu.jpg', alt: 'Dhanush Head shot Pic', downloadLink: '../../assets/images/Dhanu.jpg' },
+		{ id: 1, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721315692/dhanush_cnj3gi.jpg', alt: 'Dhanush Kandhan', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721315692/dhanush_cnj3gi.jpg' },
+		{ id: 2, src: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721315692/Dhanu_cygqg3.jpg', alt: 'Dhanush Head shot Pic', downloadLink: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1721315692/Dhanu_cygqg3.jpg' },
 		// Add more images as needed
 	];
 
