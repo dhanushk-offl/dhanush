@@ -91,7 +91,7 @@ export let user: User = {
             name: "Chennai React.Js (React Community)",
             role: "Organizer",
             logo: "https://res.cloudinary.com/dwir71gi2/image/upload/v1721161270/Untitled_design_6_x9kppn.png",
-            href: "https://lu.ma/chennaireact"
+            href: "https://lu.ma/chennai-react"
         },
     ],
     education: [
@@ -147,7 +147,7 @@ export let user: User = {
         {
             name: 'Version Control (Git)',
             icon: `${baseIconsURL}/git`,
-            site: 'https://www.github.com'
+            site: 'https://git-scm.com/'
         },
         {
             name: 'GCP',
@@ -157,12 +157,12 @@ export let user: User = {
         {
             name: 'Node',
             icon: `${baseIconsURL}/npm`,
-            site: 'https://www.npm.org'
+            site: 'https://www.npmjs.com/'
         },
         {
             name: 'Figma',
             icon: `${baseIconsURL}/figma`,
-            site: 'https://figma.com/figma'
+            site: 'https://www.figma.com/about/'
         }
     ],
     projects: [
@@ -198,7 +198,16 @@ export let user: User = {
             href: "https://itsdhanu.me",
             timespan: "August 2024",
             short_description: "Personal Portfolio",
-            external_links: [],
+            external_links: [
+                {
+                    url: 'https://github.com/dhanushk-offl/dhanush',
+                    label: 'Repo Link'
+                },
+                {
+                    url: 'https://itsdhanu.me',
+                    label: 'Dhanush Kandhan Portfolio'
+                }
+            ],
             tags: ['Svelte', 'TailwindCSS', 'Cloudfare', 'Web'],
             description: "Designed and Developed a responsive portfolio using sveltekit framework, for fast and reliable performance and well experienced UI",
         }
