@@ -192,6 +192,15 @@ export let user: User = {
             external_links: [],
             tags: ['IoT', 'Wear OS', 'AI', 'App Dev'],
             description: "Creating an app for suggesting the Yoga exercises based on upon their live health conditions like BP Level, Blood Oxygen Level, Breathing Speed, etc.  Based on the numbers recorded by the sensors, the fine dataset from expert doctors will suggest the Yoga exercises to get protected from various diseases. ",
+        },
+        {
+            role: "Desginer/ Developer",
+            href: "https://itsdhanu.me",
+            timespan: "August 2024",
+            short_description: "Personal Portfolio",
+            external_links: [],
+            tags: ['Svelte', 'TailwindCSS', 'Cloudfare', 'Web'],
+            description: "Designed and Developed a responsive portfolio using sveltekit framework, for fast and reliable performance and well experienced UI",
         }
     ],
     experience: [
