@@ -70,7 +70,7 @@ let baseIconsURL = 'https://cdn.simpleicons.org';
 export let user: User = {
     name: "Dhanush K",
     nameWithoutSuffix: "Dhanush",
-    role: "AI Engineer, Researcher, Technologist, Writer, Technologist &Community Enthusiast",
+    role: "AI Engineer, Researcher, Technologist, Writer, Technologist & Community Enthusiast",
     nickname: "Dhanu",
     ed: "Technologist, AI Engineer, Writer, Podcaster, Student",
     about: "Hey there! 👋 I'm a Developer Technology Intern at Nvidia, passionate about innovation, and an AI and Computer Ethics Research Fellow at Cambridge University, exploring the ethical dimensions of technology. With experience at Google and now mentoring at Naan Mudhalvan through the Government of Tamil Nadu, India, I also serve as the Technical Regional Leader for UN Youth Volunteers in India, driving impactful change in tech. As the Podcast Host of Idunammatechu, I blend expertise and passion to amplify voices and ideas. With degrees in IT from Anna University and Data Science from MITx, I'm always ready for new adventures, whether it's tech, food, cars, or travel. 🍵💻",
