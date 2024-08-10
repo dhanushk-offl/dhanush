@@ -213,6 +213,20 @@ export let user: User = {
         }
     ],
     experience: [
+                {
+            role: "Software Engineer Intern",
+            href: "https://talentship.io/en/",
+            timespan: " Aug. 2024 - Present",
+            external_links: [
+                {
+                    url: 'https://talentship.io/en/',
+                    label: 'Website'
+                },
+            ],
+            description: `
+                • Working With Front-ends Projects using React Framework for Smart Company Goals Management System <br > <br >
+                • Designing the aspect applications to ensure the proper acquirements of web apps!`
+        },
         {
             role: "Research Fellow - AI @Cambridge University",
             href: "https://www.cambridge.org",
