@@ -214,7 +214,7 @@ export let user: User = {
     ],
     experience: [
                 {
-            role: "Software Engineer Intern",
+            role: "Software Engineer Intern @Talentship.io",
             href: "https://talentship.io/en/",
             timespan: " Aug. 2024 - Present",
             external_links: [
