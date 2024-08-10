@@ -174,7 +174,7 @@ export let user: User = {
             external_links: [
                 {
                     url: 'https://github.com/dhanushk-offl/revibe-event',
-                    label: 'Revibe Event'
+                    label: 'Repo Link'
                 },
                 {
                     url: 'https://revibe.in.net',
