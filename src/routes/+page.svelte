@@ -91,9 +91,7 @@
 			</p>
 		</div>
 		<div class="flex items-center justify-center" transition:fade|local={{ duration: 700 }}>
-			<CircularButton size="md" href="/about">👋 &nbsp;About Me!</CircularButton>
-		</div>
-		<div class="flex items-center justify-center" transition:fade|local={{ duration: 700 }}>
+			<CircularButton size="md" href="/about"> About Me!&nbsp;🪴</CircularButton>
 			<CircularButton size="md" href="/contact">👋 &nbsp;Connect with me</CircularButton>
 		</div>
 	{/if}
